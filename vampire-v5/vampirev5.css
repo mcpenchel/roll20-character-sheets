@@ -11,7 +11,7 @@
 }
 
 .charsheet {
-    background: rgb(249, 243, 233);
+    background: rgb(172, 161, 166);
 }
 
 .charsheet select {
@@ -498,7 +498,7 @@ input.sheet-tab + span::before {
     text-align: center;
     display: inline-block;
     
-    background: rgb(249, 243, 233);
+    background: rgb(172, 161, 166);
     color:rgb(126, 24, 42);
     
     width: 100px;
@@ -573,7 +573,7 @@ input.sheet-tab + span::before {
 }
 
 input.sheet-tab:checked + span::before {
-    color: rgb(249, 243, 233);
+    color: rgb(172, 161, 166);
     background:rgb(126, 24, 42);
 }
 
