@@ -1,3 +1,7 @@
+body {
+  background: rgb(248, 253, 255);
+}
+
 .charsheet label {
     display: inline-block;
     width: 75px;
@@ -11,7 +15,7 @@
 }
 
 .charsheet {
-    background: rgb(172, 161, 166);
+    background: rgb(248, 253, 255);
 }
 
 .charsheet select {
@@ -382,7 +386,7 @@ span.sheet-no-health {
 }
 
 span.sheet-no-willpower {
-    background-color: rgb(24, 126, 42);
+    background-color: rgb(201, 119, 22);
 }
 
 input.sheet-no-health { z-index: 2; }
@@ -428,7 +432,7 @@ span.sheet-humanity-box {
 }
 
 span.sheet-no-humanity {
-    background-color: rgb(126, 24, 42);
+    background-color: rgb(255, 224, 156);
 }
 
 input.sheet-no-humanity { z-index: 2; }
@@ -498,7 +502,7 @@ input.sheet-tab + span::before {
     text-align: center;
     display: inline-block;
     
-    background: rgb(172, 161, 166);
+    background: rgb(248, 253, 255);
     color:rgb(126, 24, 42);
     
     width: 100px;
@@ -573,7 +577,7 @@ input.sheet-tab + span::before {
 }
 
 input.sheet-tab:checked + span::before {
-    color: rgb(172, 161, 166);
+    color: rgb(248, 253, 255);
     background:rgb(126, 24, 42);
 }
 
